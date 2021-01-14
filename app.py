@@ -489,7 +489,7 @@ def update_graph(w_countries):
 
              hovermode='x',
 
-             xaxis=dict(title='<b>Date</b>',
+             xaxis=dict(title='<b>Data</b>',
                         color='white',
                         showline=True,
                         showgrid=True,
